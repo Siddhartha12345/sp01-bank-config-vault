@@ -8,3 +8,6 @@ JWT_SECRET: Q0lYNWg5Q2EyV0d3UXVya3lSMVFBQmpyZ0t2YWZxWmM=
 # RabbitMQ configs
 RABBITMQ_USERNAME: guest
 RABBITMQ_PASSWORD: guest
+
+# Common iolog properties
+IOLOG_DB: sp01_iologger
